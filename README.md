@@ -1,14 +1,10 @@
 ## 👨‍💻 About Me
 
-👨‍💻 &nbsp;I am a Data Engineer with experience in software development and data engineering tasks.
+👨‍💻 &nbsp;I am a DATA ENGINEER with experience in software development and data engineering tasks.
 
-💡 &nbsp;I specialize in implementing ETL processes, managing large volumes of data, and optimizing workflows.
+💡 &nbsp;I specialize in implementing ETL processes, managing large volumes of data,optimizing workflows and more.
 
-🎓 &nbsp;I am a Data Engineer from the Universidad Tecnológica Nacional (UTN-FRBA), Argentina, and I am currently studying Programming at UTN-FRSR.
-
-🌱 &nbsp;I am on my way to learning more about Big Data, Workflow Orchestration, and advanced Data Processing techniques.
-
-✍️ &nbsp;In my free time, I work on projects based on data engineering and topics that help me grow professionally.
+🎓 &nbsp;I am a DATA ENGINEER from the Universidad Tecnológica Nacional (UTN-FRBA), Argentina, and I am currently studying Programming at UTN-FRSR.
 
 📩 &nbsp;Feel free to contact me at **matisgar32@gmail.com**.
 
@@ -47,7 +43,6 @@
 - Extracts Argentina's country risk data, performs cleaning and transformation, and stores it for further analysis.
 - **Technologies:** Python, pandas, REST APIs, Power BI.
 
-### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
 <a href="https://www.linkedin.com/in/matias-garcia-2ab502316/"><img src="https://img.shields.io/badge/-Matias%20Garcia-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
