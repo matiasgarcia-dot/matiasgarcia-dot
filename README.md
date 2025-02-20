@@ -1,7 +1,11 @@
-👨‍💻 &nbsp;I am a Data Engineer with experience in software development and data engineering tasks. 
-💡 &nbsp;I specialize in implementing ETL processes, managing large volumes of data, and optimizing workflows. 
-🎓 &nbsp;I am a Data Engineer from the Universidad Tecnológica Nacional (UTN-FRBA), Argentina, and I am currently studying Programming at UTN-FRSR. 
+👨‍💻 &nbsp;I am a Data Engineer with experience in software development and data engineering tasks.
+
+💡 &nbsp;I specialize in implementing ETL processes, managing large volumes of data, and optimizing workflows.
+
+🎓 &nbsp;I am a Data Engineer from the Universidad Tecnológica Nacional (UTN-FRBA), Argentina, and I am currently studying Programming at UTN-FRSR.
+
 🌱 &nbsp;I am on my way to learn more about Big Data, Workflow Orchestration, and advanced Data Processing techniques.
+
 ✍️ &nbsp;In my free time, I work on projects based on data engineering and things that make me grow professionally. 
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
