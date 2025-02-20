@@ -1,12 +1,16 @@
+## 👨‍💻 About Me
+
 👨‍💻 &nbsp;I am a Data Engineer with experience in software development and data engineering tasks.
 
 💡 &nbsp;I specialize in implementing ETL processes, managing large volumes of data, and optimizing workflows.
 
 🎓 &nbsp;I am a Data Engineer from the Universidad Tecnológica Nacional (UTN-FRBA), Argentina, and I am currently studying Programming at UTN-FRSR.
 
-🌱 &nbsp;I am on my way to learn more about Big Data, Workflow Orchestration, and advanced Data Processing techniques.
+🌱 &nbsp;I am on my way to learning more about Big Data, Workflow Orchestration, and advanced Data Processing techniques.
 
-✍️ &nbsp;In my free time, I work on projects based on data engineering and things that make me grow professionally. 
+✍️ &nbsp;In my free time, I work on projects based on data engineering and topics that help me grow professionally.
+
+📩 &nbsp;Feel free to contact me at **matisgar32@gmail.com**.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
@@ -43,11 +47,12 @@
 - Extracts Argentina's country risk data, performs cleaning and transformation, and stores it for further analysis.
 - **Technologies:** Python, pandas, REST APIs, Power BI.
 
+### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/matias-garcia-2ab502316/"><img src="[https://img.shields.io/badge/-Matias%20Garcia-0077B5?style=flat&logo=Linkedin&logoColor=white](https://www.linkedin.com/in/matias-garcia-2ab502316/)"/></a>
+<a href="https://www.linkedin.com/in/matias-garcia-2ab502316/"><img src="https://img.shields.io/badge/-Matias%20Garcia-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://github.com/matiasgarcia-dot"><img src="https://img.shields.io/badge/-Matias%20Garcia-181717?style=flat&logo=github&logoColor=white"/></a>
-<a href="mailto:your-email@example.com"><img src="[https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white](https://mail.google.com/mail/u/0/?tab=rm&ogbl#all?compose=CllgCJfmrDRcnWXjbnrZRnxqxrFNHFgMFcPHlTSqJzxJkQXcRhvDgJGKSblmlCrrxXmBhbmVpNB)"/></a>
+<a href="mailto:matisgar32@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.youtube.com/@hellomaty"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white"/></a>
 </p>
 
