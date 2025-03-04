@@ -33,7 +33,7 @@
 
 #### [🚀 SpaceX Data Pipeline ETL](https://github.com/matiasgarcia-dot/data_engineering_projects/tree/main/spacex_data_pipeline_ETL)
 - Extracts data from the SpaceX public API, transforms it, and stores it in Delta Lake.
-- **Technologies:** Python, requests, Delta Lake, REST APIs.
+- **Technologies:** Python,Pandas requests, Delta Lake, REST APIs.
 
 #### [🚗 ETL Analytics with PySpark](https://github.com/matiasgarcia-dot/data_engineering_projects/tree/main/ETL_Analytics_with_PySpark)
 - Analyzes large datasets on the best-selling car brands and most commonly used transmission types.
@@ -41,7 +41,7 @@
 
 #### [📊 Country Risk ETL](https://github.com/matiasgarcia-dot/data_engineering_projects/tree/main/country_risk_ETL)
 - Extracts Argentina's country risk data, performs cleaning and transformation, and stores it for further analysis.
-- **Technologies:** Python, pandas, REST APIs, Power BI.
+- **Technologies:** Python, Pandas, REST APIs, Power BI.
 
 
 <p align="center">
