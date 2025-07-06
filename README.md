@@ -43,7 +43,7 @@
 - Extracts Argentina's country risk data, performs cleaning and transformation, and stores it for further analysis.
 - **Technologies:** Python, Pandas, REST APIs, Power BI.
 
-#### [🗃 Clean Data MySQL](https://github.com/matiasgarciadot/data_engineering_projects/tree/main/Clean_Data_MySQL)
+#### [🗃 Clean Data MySQL](https://github.com/matiasgarcia-dot/data_engineering_projects/tree/main/Clean_Data_MySQL)
 - Import CSV, cleaned, optimize and export to clean database Employ'scompany. Focused on data transformation and reduce redundancy.
 - **Technologies:** MySQL Workbench and CSV
 
