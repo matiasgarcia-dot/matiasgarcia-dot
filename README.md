@@ -47,6 +47,12 @@
 - Import CSV, cleaned, optimize and export to clean database Employ'scompany. Focused on data transformation and reduce redundancy.
 - **Technologies:** MySQL Workbench and CSV
 
+#### [🗃 Python_Game_Space_Invaders](https://github.com/matiasgarcia-dot/data_engineering_projects/tree/main/Python_Game_Space_Invaders)
+- A customized version of the classic Space Invaders, developed as a group academic project for the Programming Technician program (UTN San Rafael). I participated in the development of the game's main loop and the basic level layout, with support from peers and technical assistance.
+- **Technologies:** Python 3, Pygame, SQLite, Git, GitHub.
+- **Proyect Video:** https://drive.google.com/file/d/1MJLILGkoGaGpMZW0b_3PS-NrMR8TpJsg/view?usp=drive_link
+
+
 
 <p align="center">
 <a href="https://www.linkedin.com/in/matias-garcia-2ab502316/"><img src="https://img.shields.io/badge/-Matias%20Garcia-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
